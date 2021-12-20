@@ -124,6 +124,9 @@ require("dotenv").config();
 Projenizde `.env` dosyasını asla **git'e eklememelisiniz**!
 Eklenmediğinden emin olmak için projenizin `.gitignore` dosyasında en altına `.env` satırını ekleyebilirsiniz. Eğer bu dosya bulunmuyorsa kendiniz oluşturup ekleyebilirsiniz. Eğer yanlışlıkla git'e gönderdiyseniz [bu](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository) makele size yardımcı olacaktır. Zamane bilgilerinizin başka birinin eline geçmesi ile kötü amaçlı biri bütün kredilerinizi hızlıca kullanıp size parasal zarar getirebilir. Lütfen Enviroment dosyalarınız saklayın ve kimse ile paylaşmayın.
 
+## Yorumlar
+[#2](https://github.com/AppacYazilim/AppacYazilim.github.io/discussions/2) üzerinden yorumlarınızı paylaşabilirsiniz.
+Yazıdaki problemler için İssue açabilirsiniz. 
 
 ## Son
 
